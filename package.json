@@ -1,0 +1,18 @@
+{
+  "name": "42scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "triplescoretoday.com ◄ Get Your FREE Credit Score triplescoretoday.com, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "triplescoretoday.com",
+    "672 credit score",
+    "756 credit score",
+    "credit score quotes",
+    "credit score zolve"
+  ],
+  "repository": "https://github.com/truelestor/42scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
